@@ -6,7 +6,7 @@ var express = require('express'),
     pg = require('pg'),
     app = express();
 
-var connect = "postgress://wady:1234@localhost/public.recipebookdb";
+var connect = "postgress://evmadugeuvpyii:b918c11f638ad50cac5fc912693a8783ff24f125c871b1c8bd080bb35884e2a2@ec2-107-21-99-176.compute-1.amazonaws.com:5432/devj46kojun2ua";
 
 app.engine('dust', cons.dust);
 
