@@ -8,7 +8,7 @@
 
   "author": "Wady",
   "license": "ISC",
-  
+
   "dependencies": {
     "body-parser": "^1.17.2",
     "consolidate": "*",
@@ -31,4 +31,5 @@
       "user":     "wady",
       "password": "1234"
     }
+  }
 }
